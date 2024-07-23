@@ -22,7 +22,7 @@ nodemon index.js
 ```
 5) Start a new terminal and run react's development server
 ```
-cd social-media-app
+cd EazyByts2
 cd frontend
 npm start
 ```
