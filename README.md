@@ -27,9 +27,11 @@ cd frontend
 npm start
 ```
 6) Screenshots
-```
+
+
 
 Homescreen
+
 
    ![Homepage](https://github.com/user-attachments/assets/0d0c3f36-77d2-4b7d-aba0-8006820b3ba8)
 
