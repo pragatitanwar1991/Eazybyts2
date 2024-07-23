@@ -28,14 +28,14 @@ npm start
 
 ### Screenshots
 
-### Homescreen
+Homescreen
 
    ![Homepage](https://github.com/user-attachments/assets/0d0c3f36-77d2-4b7d-aba0-8006820b3ba8)
 
-### Date Selection for Tracking Expense of particular date
+ Date Selection for Tracking Expense of particular date
 
    ![Date](https://github.com/user-attachments/assets/d74407d5-eea0-463a-bdbc-b709c69c45a7)
 
-### Total Expenses Chart
+Total Expenses Chart
 
    ![TotalExpenseschart](https://github.com/user-attachments/assets/8789e3cd-a5b7-40f2-8b0c-c419c7eb5789)
