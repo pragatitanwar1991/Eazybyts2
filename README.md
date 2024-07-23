@@ -25,7 +25,7 @@ nodemon index.js
 cd social-media-app
 cd frontend
 npm start
-
+```
 6) Screenshots
 ```
 
@@ -33,9 +33,11 @@ Homescreen
 
    ![Homepage](https://github.com/user-attachments/assets/0d0c3f36-77d2-4b7d-aba0-8006820b3ba8)
 
+
  Date Selection for Tracking Expense of particular date
 
    ![Date](https://github.com/user-attachments/assets/d74407d5-eea0-463a-bdbc-b709c69c45a7)
+
 
 Total Expenses Chart
 
