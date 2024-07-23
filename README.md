@@ -26,7 +26,8 @@ cd social-media-app
 cd frontend
 npm start
 
-Screenshots
+6) Screenshots
+```
 
 Homescreen
 
